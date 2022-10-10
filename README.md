@@ -12,13 +12,17 @@ p4-4.	Create a class Vector with a single dimensional array, and size as data me
 
 p5-Friend function list department wise
 
-p6, p7-eligible for vote or not
+p6-eligible for vote or not
+
+p7-comparing of 2 strings
 
 p8-Create a class Vector with a single dimensional array, and size as data members
 
 p9-simple interest
 
 p10-fibonacci series
+
+p11-smaller number from from a given number.
 
 p12-marks of a student
 
